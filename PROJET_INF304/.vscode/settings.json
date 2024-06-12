@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "robot.h": "c",
+        "terrain.h": "c",
+        "stdlib.h": "c",
+        "programme.h": "c"
+    }
+}
